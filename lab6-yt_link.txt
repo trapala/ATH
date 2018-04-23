@@ -1,0 +1,4 @@
+Advanced Third Person Controller Part 1 Animator Setup & State Behaviors - Unity Tutorial
+https://www.youtube.com/watch?v=3YTR_9_Trsg
+Unity: mecanim crouching crouch with colliders tutorial
+https://www.youtube.com/watch?v=Gha5BFBS-qs
